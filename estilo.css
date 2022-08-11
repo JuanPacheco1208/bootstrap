@@ -40,3 +40,29 @@ form{
 footer{
     background-color: #00000067;
 }
+
+/*página de turismo - Silian*/
+
+.bodyblog{
+    background-color: #227ab4;
+}
+.inline{
+    display: flex;
+    justify-content: space-around;
+}
+.final{
+    border: black double 5px;
+}
+
+/*productos*/
+h5{
+    font-size: auto;
+    background-color: #c1d7e6;
+    display: flex;
+    justify-content: center;
+}
+.productos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
